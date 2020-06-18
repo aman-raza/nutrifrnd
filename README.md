@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to web page of nutrifrnd.
+Welcome to the web page of nutrifrnd.
 
 Our whole website is made using HTML, CSS and Javascript.
 
