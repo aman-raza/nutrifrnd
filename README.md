@@ -10,7 +10,7 @@ At first we have the page welcoming everyone with a menu at the top these are th
 
 We have a blog section called nutrifood where we have described a proper diet plan for the vulnerable population which are very prone to the disease.
 
-In the bottom right of the page we have a floating chatbot, from where a person can ask few simple queries this is fully automated.
+In the bottom right of the page we have a floating chatbot made using snatchbot service, from where a person can ask few simple queries this is fully automated.
 
 Scrolling down we have Live Covid-19 page made using "react" library, A person visiting this page can track live corona data country wise.
 
